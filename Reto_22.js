@@ -1,5 +1,4 @@
 // Solución 1
-
 function canEscape(maze) {
   const rows = maze.length;
   const cols = maze[0].length;
